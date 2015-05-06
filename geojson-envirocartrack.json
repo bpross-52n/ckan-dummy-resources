@@ -1,0 +1,10 @@
+{
+    "title": "Example dataset 1",
+    "description": "A longer description of dataset 1: includes three distributions, a CSV file, a PDF file and an API. Some special characters: \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7.",
+    "distribution": [
+        {
+            "downloadURL": "https://envirocar.org/api/stable/tracks/51cda9a3e4b0f7630819472b",
+            "format": "application/json"
+        }
+    ]
+}

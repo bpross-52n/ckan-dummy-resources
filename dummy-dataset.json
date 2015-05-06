@@ -1,0 +1,54 @@
+{
+    "title": "Example dataset 1",
+    "description": "A longer description of dataset 1: includes three distributions, a CSV file, a PDF file and an API. Some special characters: \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7.",
+    "identifier": "https://data.some.org/catalog/datasets/1",
+    "issued": "2013-04-26T00:00:00Z",
+    "modified": "2013-04-26T00:00:00Z",
+    "landingPage": "",
+    "publisher": {
+        "name": "Publishing Organization for dataset 1",
+        "mbox": "contact@some.org"
+    },
+    "distribution": [
+        {
+            "accessURL": "https://data.some.org/the/actual/catalog",
+            "byteSize": "",
+            "description": "A longer description for the distribution",
+            "downloadURL": "https://data.some.org/the/actual/catalog/datasets/1/resources/1.csv",
+            "format": "text/csv",
+            "issued": "",
+            "license": "https://data.some.org/link/to/license",
+            "modified": "",
+            "title": "A distribution for this dataset in CSV format"
+        },
+        {
+            "accessURL": "https://data.some.org/the/actual/catalog",
+            "byteSize": "",
+            "description": "A longer description for the distribution",
+            "downloadURL": "https://data.some.org/the/actual/catalog/datasets/1/resources/2.pdf",
+            "format": "application/pdf",
+            "issued": "",
+            "license": "https://data.some.org/link/to/license",
+            "modified": "",
+            "title": "A distribution for this dataset in PDF format"
+        },
+        {
+            "accessURL": "https://data.some.org/the/actual/catalog/link/to/an/api",
+            "byteSize": "",
+            "description": "A longer description for the distribution",
+            "downloadURL": "",
+            "format": "",
+            "issued": "",
+            "license": "",
+            "modified": "",
+            "title": "A distribution for this dataset as an API"
+        }
+    ],
+    "keyword": [
+        "stats",
+        "pollution"
+    ],
+    "language": [
+        "en"
+    ]
+}
