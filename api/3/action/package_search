@@ -6,28 +6,28 @@
       {
         "resources": [
           {
-            "url": "gis.ktimanet.gr"
+            "url": "http://gis.ktimanet.gr"
           },
           {
-            "url": "www.wms.nrw.de"
+            "url": "http://www.wms.nrw.de"
           },
           {
-            "url": "sampleserver1.arcgisonline.com"
+            "url": "http://sampleserver1.arcgisonline.com"
           },
           {
-            "url": "envirocar.org"
+            "url": "https://envirocar.org"
           },
           {
-            "url": "tasks.arcgisonline.com"
+            "url": "http://tasks.arcgisonline.com"
           },
           {
-            "url": "gist.githubusercontent.com"
+            "url": "http://gist.githubusercontent.com"
           },
           {
-            "url": "gis.kreis-soest.de"
+            "url": "http://gis.kreis-soest.de"
           },
           {
-            "url": "autermann.github.io"
+            "url": "http://autermann.github.io"
           }
         ]
       }
