@@ -1,0 +1,35 @@
+{
+  "result": {
+    "count": 1,
+    "results": [
+      {
+        "resources": [
+          {
+            "url": "gis.ktimanet.gr"
+          },
+          {
+            "url": "www.wms.nrw.de"
+          },
+          {
+            "url": "sampleserver1.arcgisonline.com"
+          },
+          {
+            "url": "envirocar.org"
+          },
+          {
+            "url": "tasks.arcgisonline.com"
+          },
+          {
+            "url": "gist.githubusercontent.com"
+          },
+          {
+            "url": "gis.kreis-soest.de"
+          },
+          {
+            "url": "autermann.github.io"
+          }
+        ]
+      }
+    ]
+  }
+}
